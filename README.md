@@ -8,9 +8,9 @@
 * *Order Management & Tracking*
 * *Customer Management*
 * *Payment Integration*
-* *Delivery System Integration*
-* *Dashboard [Restaurants , Systems]*
 * *Offers*
+* *Dashboard [Restaurants , Systems]*
+* *Delivery System Integration*
 * *Notification Engine*
 ---
 ### User Registration & Authentication - Functions
@@ -66,6 +66,21 @@
 - **Address management**
 - **Rating & Comments**
 - **Customer Support**
+---
+### Payment Integration - Functions
+- **Payment integration with 3rd party**
+- **Multiple payment Methods**
+- **View payments transactions**
+- **Payment error handling**
+- **Payment verification & validation**
+- **Generate payment receipt**
+- **Auditing Payment integration**
+- **Payment status**
+---
+### Offers Managment - Functions
+- **promo code management**
+- **Specific Item Discounts [Restaurant]**
+- **First-Order Automatic Discount**
 ---
 
 
