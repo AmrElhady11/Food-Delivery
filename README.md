@@ -10,7 +10,6 @@
 * *Payment Integration*
 * *Offers*
 * *Dashboard [Restaurants , Systems]*
-* *Delivery System Integration*
 * *Notification Engine*
 ---
 ### User Registration & Authentication - Functions
@@ -82,7 +81,36 @@
 - **Specific Item Discounts [Restaurant]**
 - **First-Order Automatic Discount**
 ---
-
+### Dashboard [Restaurants , Systems] - Functions
+#### System
+- **Count restaurants**
+- **Count Customers**
+- **Count active customers**
+- **Daily count Order**
+- **Daily cancelled order**
+- **Totaly cancelled order**
+- **Daily amount of transactions**
+- **Total amount of transactions**
+- **Generate Daily transactions report**
+- **Generate Monthly transactions report**
+#### Restaurants
+- **Daily Count order per restaurant**
+- **Daily Count order not delivered per restaurant**
+- **Total Count order per restaurant**
+- **Daily Canceled order per restaurant**
+- **Total Canceled order per restaurant**
+- **Daily amount of transactions per restaurant**
+- **Total amount of transactions per restaurant**
+- **Generate Daily transactions report per restaurant**
+- **Generate Monthly transactions report per restaurant**
+---
+### Notification Engine - Functions
+- **View Notification History**
+- **Notify customers by offers on application**
+- **Notify customers by updated Order status**
+- **Notify customers by rating and review after order is delivered**
+- **Notify inactive customers by reminding orders and offers [app - email] **
+---
 
 
 
